@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tournament</string>
+    <string name="insert_new_player">Vstavi igralca</string>
+    <string name="update_player">Posodobi igralca</string>
+    <string name="info">Informacije</string>
+    <string name="tournament">Turnir</string>
+    <string name="nickname">Vzdevek</string>
+    <string name="first_name">Ime</string>
+    <string name="last_name">Priimek</string>
+    <string name="age">Starost</string>
+    <string name="exit">Izhod</string>
+    <string name="toastOnActivitiResultMainActivity">Uspešno!</string>
+    <string name="toastOnActivityResultMainActivityFailed">Ne uspešno!</string>
+    <string name="insert">Vstavi</string>
+    <string name="username">Uporabniško ime</string>
+    <string name="email_address">Elektronski naslov</string>
+    <string name="save">Shrani</string>
+    <string name="cancel">"Prekliči "</string>
+    <string name="team_size">Ime ekipe</string>
+    <string name="team_name">Velikost ekipe</string>
+</resources>
